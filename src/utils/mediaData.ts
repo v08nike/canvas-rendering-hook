@@ -13,7 +13,8 @@ export const scenesData: SceneDataType[] = [
     index: 1,
     type: "video",
     sentence: "Here comes the video!",
-    media: "/assets/video/test.mp4",
+    media:
+      "https://media.gettyimages.com/videos/goodlooking-young-woman-in%02casual-clothing-is-painting-in-workroom-video-id1069900546",
     audio: "/assets/audio/here_comes_the_video!.mp3",
     startFrom: 5,
     duration: 5,
@@ -30,9 +31,10 @@ export const scenesData: SceneDataType[] = [
     index: 3,
     type: "video",
     sentence: "This is our last video!",
-    media: "/assets/video/test.mp4",
+    media:
+      "https://media.gettyimages.com/videos/goodlooking-young-woman-in%02casual-clothing-is-painting-in-workroom-video-id1069900546",
     audio: "/assets/audio/this_is_our_last_video.mp3",
-    startFrom: 15,
+    startFrom: 8,
     duration: 5,
   },
 ];
